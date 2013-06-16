@@ -1,1 +1,2 @@
 String[] x = new String[100];
+double[] y = new double[500];
